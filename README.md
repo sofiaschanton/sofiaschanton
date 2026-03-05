@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Sofia Schanton</h1>
 <h3 align="center">Data Scientist · Data Analyst · Chemical Engineer</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sofiaschanton&theme=flat&no-frame=true&column=6" alt="sofiaschanton" />
-  </a>
-</p>
+
 
 ---
 
@@ -64,12 +60,12 @@ I'm a **Chemical Engineer with a passion for data** — with hands-on experience
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiaschanton&show_icons=true&theme=default&hide_border=true" alt="Sofia's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiaschanton&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sofiaschanton&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="Sofia's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiaschanton&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiaschanton&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sofiaschanton&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -80,9 +76,9 @@ I'm a **Chemical Engineer with a passion for data** — with hands-on experience
   <a href="https://linkedin.com/in/sofiaschanton" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="mailto:sofia.schanton.ss@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#9be8f4fdf2fab5e8f8f3faf5eff4f5b5e8e8dbfcf6faf2f7b5f8f4f6">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
   </a>
 </p>
 
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+> *"Without data, you're just anothe
