@@ -60,11 +60,6 @@ I'm a **Chemical Engineer with a passion for data** — with hands-on experience
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiaschanton&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="Sofia's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiaschanton&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=sofiaschanton&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -81,4 +76,4 @@ I'm a **Chemical Engineer with a passion for data** — with hands-on experience
   </a>
 </p>
 
-> *"Without data, you're just anothe
+> *"Without data, you're just another person with an opinion." — W. Edwards Deming*
