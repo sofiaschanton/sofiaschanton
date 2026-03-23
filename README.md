@@ -36,13 +36,13 @@ End-to-end MLOps solution for retail recommendation, deployed on AWS ECS Fargate
 - LightGBM propensity model + cold-start fallback for 100% endpoint availability
 - Automated drift detection (PSI/KS-test) triggering retraining via GitHub Actions
 - FastAPI serving layer · MLflow experiment tracking · Streamlit dashboards
-- **My role:** Data loading module (AWS RDS + SSL, user sampling, memory optimization), EDA, feature engineering, pipeline orchestration, CI/CD configuration, model monitoring (PSI/KS-test), AWS IAM setup
+- **My role:** Data loading module (AWS RDS + SSL, user sampling, SQL injection prevention, memory optimization), EDA, feature engineering, pipeline orchestration (load → features → train under a single MLflow run + weekly snapshot), MLOps workflows (CI with pytest/mypy/SonarQube · CD with rolling update/health check/auto-rollback · scheduled drift→retrain→deploy pipeline), model monitoring script (PSI + KS-test, S3 integration), AWS IAM setup
 
 `Python` `LightGBM` `FastAPI` `Docker` `AWS` `MLflow` `GitHub Actions` `Streamlit`
 
 ---
 
-### 📦 [MLOps Pipeline — On-Time Payment Prediction](https://github.com/sofiaschanton/PI_M5)
+### 📦 [MLOps Pipeline — On-Time Payment Prediction](https://github.com/sofiaschanton/LINK_AL_REPO)
 End-to-end ML pipeline for financial payment prediction under severe class imbalance.
 - Trained and validated 5 models (Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost) with TimeSeriesSplit cross-validation
 - Selected Logistic Regression based on stability and regulatory traceability; optimized classification threshold via OOF predictions
