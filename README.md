@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Sofia Schanton</h1>
-<h3 align="center">Chemical Engineer → Data Analyst · Data Scientist</h3>
+<h3 align="center">Chemical Engineer → Data Scientist & Operations Analyst </h3>
 
 ---
 
 ## About Me
 
-I'm a **Chemical Engineer transitioning into Data Science**, with hands-on experience in **quality assurance and process improvement** across manufacturing and logistics environments in Argentina, Australia, and Spain.
+Chemical Engineer transitioning into Data Science, with hands-on experience in quality assurance and process improvement across manufacturing and logistics environments in Argentina, Australia, and Spain.
 
 - ⚙️ I bridge engineering and data: turning operational complexity into **actionable insights**
 - 🤖 Skilled in **Python, SQL, Machine Learning, MLOps, and Power BI**
