@@ -42,7 +42,7 @@ End-to-end MLOps solution for retail recommendation, deployed on AWS ECS Fargate
 
 ---
 
-### 📦 [MLOps Pipeline — On-Time Payment Prediction](https://github.com/sofiaschanton/LINK_AL_REPO)
+### 📦 [MLOps Pipeline — On-Time Payment Prediction](https://github.com/sofiaschanton/financeGuard-churn-ml)
 End-to-end ML pipeline for financial payment prediction under severe class imbalance.
 - Trained and validated 5 models (Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost) with TimeSeriesSplit cross-validation
 - Selected Logistic Regression based on stability and regulatory traceability; optimized classification threshold via OOF predictions
